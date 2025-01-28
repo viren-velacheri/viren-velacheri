@@ -1,8 +1,18 @@
-## Hi there 👋
+# Hey, I'm Viren 👋 
+
+## About me
+I'm a Software Engineer with a versatile background that is primarily composed of full-stack web development, machine learning, and data science experience. Outside of work, I am also the President of my local Toastmasters club and do some modeling/acting gigs on the side as well. Some of my hobbies/interests include playing sports (soccer, basketball, swimming, tennis, pickleball, badminton), cooking, reading, traveling, listening to music, watching TV, and hanging out with friends and family.
+
+## Get in touch :coffee:
+
+- [Personal Website](https://viren-velacheri.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/virenvelacheri)
+- [Instagram](https://www.instagram.com/virenvelacheri/)
+- [Facebook](https://www.facebook.com/profile.php?id=100011326545433)
 
 <!--
 **viren-velacheri/viren-velacheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://linkedin.com/in/linkedin.com/in/virenvelacheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/virenvelacheri/" height="30" width="40" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
